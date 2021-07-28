@@ -19,24 +19,17 @@
     }
     
     #agrupar {
-        /* margin: 10px 5px 15px 20px; */
-        /* margin-top: 10px;
-    margin-left: 5px;
-    margin-right: 15px;
-    margin-bottom: 20px; */
         margin: 15px auto;
     }
     
     #cabecera {
         padding: 20px;
-        /* padding-top: 5px;
-    padding-bottom: 10px; */
-        background-color: #CCCCCC;
-        border: 1px dashed #000000;
+        background-color: #f89494;
+        border: 3px solid #000000;
     }
     
     #menu {
-        background: #CCCCCC;
+        background: #f89494;
         padding: 5px 15px;
     }
     
@@ -51,14 +44,12 @@
         float: left;
         width: 60%;
         margin: 5%;
-        background: #CCCCCC;
     }
     
     #columna {
         float: left;
         width: 20%;
         margin: 5%;
-        background: #CCCCCC;
     }
     
     #pie {
@@ -89,4 +80,9 @@
     figcaption {
         font-size: 15px;
         color: white;
+    }
+    
+    blockquote {
+        background: #f89494;
+        margin-bottom: 15px;
     }
